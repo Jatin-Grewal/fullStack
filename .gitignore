@@ -1,3 +1,6 @@
+# just the local file ...i don't want this file to commit
+.DS_Store
+
 # Logs
 logs
 *.log
